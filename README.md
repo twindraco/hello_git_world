@@ -1,3 +1,3 @@
-# hello_git_world
+# hello_world
 a new repository exercise
-today is a happy dat to meet git hub!!!
+today is a happy day to meet git hub!!!
